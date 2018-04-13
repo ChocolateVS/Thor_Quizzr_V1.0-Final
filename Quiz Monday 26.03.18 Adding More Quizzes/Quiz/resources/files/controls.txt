@@ -1,0 +1,8 @@
+a
+s
+d
+f
+UP
+DOWN
+LEFT
+RIGHT
